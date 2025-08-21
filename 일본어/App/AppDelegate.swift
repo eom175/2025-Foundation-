@@ -14,7 +14,7 @@ class AppDelegate: NSObject, UIApplicationDelegate {
         FirebaseApp.configure()
         
         // Kakao SDK 초기화
-        KakaoSDK.initSDK(appKey: "5210a7642e95b931c26085b96a2c5ec6")
+        KakaoSDK.initSDK(appKey: "cc84fb7b722e40cc338e0886c855f8c5")
 
         return true
     }

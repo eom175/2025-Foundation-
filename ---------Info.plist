@@ -8,10 +8,10 @@
 			<key>CFBundleTypeRole</key>
 			<string>Editor</string>
 			<key>CFBundleURLName</key>
-			<string>kakao</string>
+			<string>Kakao</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>kakao5210a7642e95b931c26085b96a2c5ec6</string>
+				<string>kakaocc84fb7b722e40cc338e0886c855f8c5</string>
 			</array>
 		</dict>
 	</array>
