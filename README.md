@@ -1,10 +1,7 @@
 # JStudy 
 
 SwiftUI 기반으로 제작한 일본어 학습 앱입니다.  
-듣기, 받아쓰기, 문장 배열, 따라 말하기, 어휘 복습까지 하나의 학습 플로우로 연결해 학습 몰입도를 높였습니다.
-
-<img width="2750" height="778" alt="Image" src="https://github.com/user-attachments/assets/048ee44c-b70a-4fb7-963c-0b23768a47e7" />
-<img width="5211" height="347" alt="Image" src="https://github.com/user-attachments/assets/ddb1a816-1aa4-4694-b47f-fd34e9f317c3" />
+듣기, 받아쓰기, 문장 배열, 따라 말하기, 어휘 복습까지 하나의 학습 플로우로 연결해 학습 몰입도를 높임. 
 
 ## 프로젝트 요약
 
