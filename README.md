@@ -6,7 +6,7 @@ SwiftUI 기반으로 제작한 일본어 학습 앱입니다.
 <img width="2750" height="778" alt="Image" src="https://github.com/user-attachments/assets/048ee44c-b70a-4fb7-963c-0b23768a47e7" />
 <img width="5211" height="347" alt="Image" src="https://github.com/user-attachments/assets/ddb1a816-1aa4-4694-b47f-fd34e9f317c3" />
 
-## 프로젝트 요약 (이력서용)
+## 프로젝트 요약
 
 - **프로젝트명**: JStudy
 - **플랫폼**: iOS (SwiftUI)
@@ -56,7 +56,7 @@ SwiftUI 기반으로 제작한 일본어 학습 앱입니다.
 - **State/Event**: ObservableObject, NotificationCenter
 - **Dependency**: Swift Package Manager
 
-## 구현 포인트 (문제 해결 중심)
+## 구현 포인트 
 
 1. **세션 복구 UX 안정화**
 - `AppState`에서 `isChecking` 상태를 분리해, 인증 상태 확인 전 화면 노출을 제어
